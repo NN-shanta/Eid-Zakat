@@ -32,7 +32,7 @@
 }
 
 .header-heading {
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 900;
   padding-top: 200px;
 }
@@ -64,20 +64,22 @@
   width: 50%;
   padding: 20px 50px;
   margin: 50px 50px;
-  border: 1px solid red;
 
 }
 
 .container-video{
-  width: 50%;
+  width: 500px;
   padding: 20px 50px;
-  margin: 50px 50px;
-  height: 500px;
-  border: 1px solid red;
-
+  margin: 30px 50px;
 }
 .container-heading {
   font-size: 50px;
   font-weight: 900;
+}
+
+.container-video img{
+  height: 450px;
+  width: 450px;
+  border-radius: 20px;
 }
 
